@@ -1,0 +1,18 @@
+<style>
+  .social-icon {
+    margin: 5px;
+  }
+</style>
+
+<a class="social-icon" href="https://twitter.com/bing" target="_blank">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1635182718~hmac=7f9a6c0b2a4f1c5b3e9d0a5d2f1c9f6d" width="50" height="50" alt="Ikuti kami di Twitter">
+</a>
+<a class="social-icon" href="https://www.facebook.com/Bing" target="_blank">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/733/733547.svg?token=exp=1635182828~hmac=4e7e3b8c2b0e4d0e3e7b8c3b7f5c1e8b" width="50" height="50" alt="Ikuti kami di Facebook">
+</a>
+<a class="social-icon" href="https://www.instagram.com/bing/" target="_blank">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1635182874~hmac=2f0d6c7c1d7e3f6b4e1b3c2f4b8d0e67" width="50" height="50" alt="Ikuti kami di Instagram">
+</a>
+<a class="social-icon" href="https://www.linkedin.com/company/bing/" target="_blank">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/733/733561.svg?token=exp=1635182916~hmac=e2f9d9c6ef8b3f8c5db1d9e0dd7c4eb6" width="50" height="50" alt="Ikuti kami di LinkedIn">
+</a>
